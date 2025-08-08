@@ -1,0 +1,11 @@
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\bin\Debug\CALCULADORA_AREA.exe.config
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\bin\Debug\CALCULADORA_AREA.exe
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\bin\Debug\CALCULADORA_AREA.pdb
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.csproj.AssemblyReference.cache
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.Form1.resources
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.Properties.Resources.resources
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.csproj.GenerateResource.cache
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.csproj.CoreCompileInputs.cache
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.exe
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.pdb
+E:\Repositories\Dev Desktop\CALCULADORA_AREA\CALCULADORA_AREA\obj\Debug\CALCULADORA_AREA.exe.config
